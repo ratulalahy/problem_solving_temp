@@ -8,5 +8,6 @@
   * [217. Contains Duplicate](arrays/217.-contains-duplicate.md)
   * [238. Product of Array Except Self](arrays/238.-product-of-array-except-self.md)
   * [977. Squares of a Sorted Array](arrays/977.-squares-of-a-sorted-array.md)
+  * [1089. Duplicate Zeros](arrays/1089.-duplicate-zeros.md)
 
 ## 📘 code\_snippet
