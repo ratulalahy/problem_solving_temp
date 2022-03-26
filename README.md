@@ -1,8 +1,7 @@
-### list of notes
-* `algo-books` [Books on algorithms, data structured, problem solving and programming challenges.](algo-books)
-* `football-leagues-2018` [How to watch Football leagues in US (2018)](football-leagues-2018)
-* `gates-books` [Annotated list of book recommendation from Bill Gates](gates-books)
-* `intvw` [Interview Prep Resources](intvw) -- this is an *Work In Progress* article
-* `LESN` [Learn Every-so-often Something New](lesn)
+---
+description: >-
+  https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+---
 
-[nafSadh](http://nafSadh.com) © 2015-2018  
+# blind 75
+
