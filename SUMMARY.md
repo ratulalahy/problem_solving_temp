@@ -8,4 +8,4 @@
 
 ## 📘 code\_snippet
 
-* [Page 1](code\_snippet/page-1.md)
+* [Syntex](code\_snippet/syntex.md)
