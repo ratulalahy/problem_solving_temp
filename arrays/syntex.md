@@ -1,4 +1,4 @@
-# Syntex
+# 🧬 Syntex
 
 ## Sorting
 
