@@ -21,6 +21,10 @@
   * [🟢 1299. Replace Elements with Greatest Element on Right Side](arrays/1299.-replace-elements-with-greatest-element-on-right-side.md)
   * [🟢 1346. Check If N and Its Double Exist](arrays/1346.-check-if-n-and-its-double-exist.md)
 * [🔗 LinkedList](linkedlist/README.md)
+  * [🟠 19. Remove Nth Node From End of List](linkedlist/19.-remove-nth-node-from-end-of-list.md)
+  * [🟢 141. Linked List Cycle](linkedlist/141.-linked-list-cycle.md)
+  * [🟠 142. Linked List Cycle II](linkedlist/142.-linked-list-cycle-ii.md)
   * [🟠 707. Design Linked List](linkedlist/707.-design-linked-list.md)
+  * [🟢 160. Intersection of Two Linked Lists](linkedlist/160.-intersection-of-two-linked-lists.md)
 
 ## 📘 code\_snippet
