@@ -15,5 +15,6 @@
   * [🟢 27. Remove Element](arrays/27.-remove-element.md)
   * [🟢 26. Remove Duplicates from Sorted Array](arrays/26.-remove-duplicates-from-sorted-array.md)
   * [🟢 1346. Check If N and Its Double Exist](arrays/1346.-check-if-n-and-its-double-exist.md)
+  * [🟢 941. Valid Mountain Array](arrays/941.-valid-mountain-array.md)
 
 ## 📘 code\_snippet
