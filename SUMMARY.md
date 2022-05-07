@@ -20,5 +20,7 @@
   * [🟢 1295. Find Numbers with Even Number of Digits](arrays/1295.-find-numbers-with-even-number-of-digits.md)
   * [🟢 1299. Replace Elements with Greatest Element on Right Side](arrays/1299.-replace-elements-with-greatest-element-on-right-side.md)
   * [🟢 1346. Check If N and Its Double Exist](arrays/1346.-check-if-n-and-its-double-exist.md)
+* [🔗 LinkedList](linkedlist/README.md)
+  * [🟠 707. Design Linked List](linkedlist/707.-design-linked-list.md)
 
 ## 📘 code\_snippet
