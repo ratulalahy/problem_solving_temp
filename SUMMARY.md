@@ -10,6 +10,7 @@
   * [🟢 238. Product of Array Except Self](arrays/238.-product-of-array-except-self.md)
   * [🟢 283. Move Zeroes](arrays/283.-move-zeroes.md)
   * [🟢 414. Third Maximum Number](arrays/414.-third-maximum-number.md)
+  * [🟢 48. Find All Numbers Disappeared in an Array](arrays/48.-find-all-numbers-disappeared-in-an-array.md)
   * [🟢 485. Max Consecutive Ones](arrays/485.-max-consecutive-ones.md)
   * [🟢 905. Sort Array By Parity](arrays/905.-sort-array-by-parity.md)
   * [🟢 941. Valid Mountain Array](arrays/941.-valid-mountain-array.md)
