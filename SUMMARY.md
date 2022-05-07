@@ -3,6 +3,7 @@
 * [🕶 blind 75](README.md)
 * [🎞 Arrays](arrays/README.md)
   * [🧬 Syntex](arrays/syntex.md)
+  * [🟢 1. Two Sum](arrays/1.-two-sum.md)
   * [🟢 26. Remove Duplicates from Sorted Array](arrays/26.-remove-duplicates-from-sorted-array.md)
   * [🟢 27. Remove Element](arrays/27.-remove-element.md)
   * [🟢 88. Merge Sorted Array](arrays/88.-merge-sorted-array.md)
