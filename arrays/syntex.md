@@ -13,7 +13,7 @@
 
 {% embed url="https://www.w3schools.com/python/ref_list_sort.asp" %}
 
-## Shorthand \`if\` \`else\`
+## Shorthand `if` `else`
 
 ```python
 x = 10 if a > b else 11
