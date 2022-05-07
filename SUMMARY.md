@@ -11,5 +11,6 @@
   * [🟢 1089. Duplicate Zeros](arrays/1089.-duplicate-zeros.md)
   * [🟢 88. Merge Sorted Array](arrays/88.-merge-sorted-array.md)
   * [🟢 1051. Height Checker](arrays/1051.-height-checker.md)
+  * [🟢 977. Squares of a Sorted Array](arrays/977.-squares-of-a-sorted-array-1.md)
 
 ## 📘 code\_snippet
