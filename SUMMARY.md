@@ -13,5 +13,6 @@
   * [🟢 1051. Height Checker](arrays/1051.-height-checker.md)
   * [🟢 977. Squares of a Sorted Array](arrays/977.-squares-of-a-sorted-array-1.md)
   * [🟢 27. Remove Element](arrays/27.-remove-element.md)
+  * [🟢 26. Remove Duplicates from Sorted Array](arrays/26.-remove-duplicates-from-sorted-array.md)
 
 ## 📘 code\_snippet
