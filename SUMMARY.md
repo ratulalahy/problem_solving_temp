@@ -1,6 +1,6 @@
 # Table of contents
 
-* [blind 75](README.md)
+* [🕶 blind 75](README.md)
 * [🎞 Arrays](arrays/README.md)
   * [🧬 Syntex](arrays/syntex.md)
   * [🟢 26. Remove Duplicates from Sorted Array](arrays/26.-remove-duplicates-from-sorted-array.md)
