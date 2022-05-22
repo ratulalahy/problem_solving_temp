@@ -1,4 +1,4 @@
-# Syntex
+# 🧬 Syntex
 
 ## Sorting
 
@@ -12,3 +12,9 @@
 > ref : [https://stackoverflow.com/a/22442440/565055](https://stackoverflow.com/a/22442440/565055)
 
 {% embed url="https://www.w3schools.com/python/ref_list_sort.asp" %}
+
+## Shorthand `if` `else`
+
+```python
+x = 10 if a > b else 11
+```
